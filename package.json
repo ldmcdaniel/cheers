@@ -18,7 +18,10 @@
   "homepage": "https://github.com/ldmcdaniel/cheers#readme",
   "devDependencies": {
     "chai": "^3.2.0",
-    "mocha": "^2.2.5"
+    "coveralls": "^2.11.3",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "mocha-lcov-reporter": "0.0.2"
   },
   "dependencies": {
     "prompt": "^0.2.14"
