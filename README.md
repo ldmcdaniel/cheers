@@ -1,1 +1,1 @@
-# cheers [![Build Status](https://travis-ci.org/ldmcdaniel/cheers.svg)](https://travis-ci.org/ldmcdaniel/cheers)
+# cheers [![Build Status](https://travis-ci.org/ldmcdaniel/cheers.svg)](https://travis-ci.org/ldmcdaniel/cheers) [![Test Coverage](https://codeclimate.com/github/ldmcdaniel/cheers/badges/coverage.svg)](https://codeclimate.com/github/ldmcdaniel/cheers/coverage) [![Code Climate](https://codeclimate.com/github/ldmcdaniel/cheers/badges/gpa.svg)](https://codeclimate.com/github/ldmcdaniel/cheers)
