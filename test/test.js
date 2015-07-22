@@ -1,3 +1,4 @@
+var should = require('chai').should();
 
 describe('Mocha + Chai', function() {
   it('truthyness', function () {
